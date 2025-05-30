@@ -60,3 +60,4 @@ This project highlights the power of modern speech technologies to improve acces
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/cb8ee7c8-952a-4cce-a067-4a9c1f0b3418)
